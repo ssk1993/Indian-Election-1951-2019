@@ -1,0 +1,46 @@
+﻿Variable,Description
+INC_c,Number of Seats contested by Indian National Congress
+INC_w,Number of Seats won by Indian National Congress
+INC_DF,Number of INC Contestants whose deposit fortified
+INC_votes,Number of votes secured by Indian National Congress
+Total_cN,Total Number of National Parties contestents
+Total_wN,Total Number of National Party Winners
+Total_DFN,Total Number of National party contestents whose deposit fortified
+Total_votesN,Total Number of votes received by Natioanal Parties
+Total_valid_votes,Total Number of votes in election year 
+Total_elector,Total Number of Electors
+,
+INC,Indian National Congress
+BJP,Bhartiya Janta Party
+CPI,Communist Party Of India
+CPM,Communist Party Of India (Marxist)
+BSP,Bahujan Samaj Party
+BJS ,All India Bhartiya Jan Sangh
+BPI,Bolshevik Party of India
+FBLM,Forward Bloc (Marxist Group)
+FBLR,Forward Bloc (Raikar Group)
+HMS,Akhil Bhartuya Hindu Mahasabha
+KLP,Krishikar Lok Party
+KMPP,Kisan Mazdoor Praza Party
+RCPI,Revolutionary Communist Party of India
+RRP,Akhil BhartIya Ram Rajya Parishad
+RSP,Revolutionary Socilaist Party
+SCF,All India Scheduled Caste Federation
+SSP,Samyukta Socialist Party
+PSP,Praja Socialist Party
+SWA,Swatantra Party
+NCO,Indian National Congress (Organisation)
+BLD,Bhartiya Lok Dal
+INCU,Indian National Congress (Urs)
+JP,Janta Party
+JPS,Janta Party (Secular)
+ICSS,Indian Congress (Socialist)
+LKD,Lok Dal
+JD,Janta Dal
+JDS,Janta Dal (Samajwadi)
+AIICT,All India Indira Congress (Tiwari)
+SAP,Samata Party
+JDU,Janta Dal (United)
+NCP,Nationalist Congress Party
+RJD,Rashtriya Janta Dal
+TMC,All India Trinamool Congress
